@@ -26,7 +26,7 @@
 }
 
 .logo {
-     background-image: url(https://photos.app.goo.gl/38qpC6mfd4gSuT2U9);
+     background-image: url('https://lh3.googleusercontent.com/pw/AP1GczMD_XmfHAt_B4VKMqYcmF84-mJplquO3aO_hlJL0YzGHdvMtPvSIuAxP899ofv5HckX1MW9qQs4YyH3PidyXcEpE2YSmcLGGykCTyR2FHNj0TzgOjlxSuHfnXUcM9Z7BK6MMSabVdAyk4KwzpeblMC-=w657-h643-s-no-gm?authuser=0');
      background-size: cover;
      height: 150px;
      width: 100%;
@@ -131,7 +131,7 @@ a:hover{
 }
 
 .home{
-    background-image: url(home.png);
+    background-image: url('https://photos.fife.usercontent.google.com/pw/AP1GczPCZZiLQrCvVUTSTz5B6i8l4QKHzBXOy-ozxO_a4zOA_R_h6km1OIw4=w502-h254-no?authuser=3');
     background-size: cover;
     height: 600px;
    margin-top: 200px;
@@ -168,14 +168,14 @@ a:hover{
    background-color: beige;
    height: 100px;
    margin-top: 80px;
-   background-image: url(aboutus.png);
+   background-image: url('https://photos.fife.usercontent.google.com/pw/AP1GczMBmXN9FA6Hs_VXgZqRnowcWzBlRI9mfCpLv8lCBTvy5JiS6RXHuJFk=w1270-h100-s-no-gm?authuser=3');
    background-size: cover;
 
    
 
 }
 .image1{
-    background-image: url(packing@2.jpg);
+    background-image: url('https://photos.fife.usercontent.google.com/pw/AP1GczOuFkW7ar6nzCKPIVju-q9JjqZOcUgdiKq4dPPHTua-w0GGfgWkQ8qg=w921-h913-s-no-gm?authuser=3');
     background-size: cover;
     height: 450px;
     width: 400px;
@@ -184,24 +184,24 @@ a:hover{
     margin-right: 50px;
    
 }
-
+/*  
 .image1:hover{
     background-image: url(packing@1.jpg);
 
    
 }
-
+ 
 
 
 .image1:active{
     background-image: url(packing@5.jpg);
-}
+}    */
 
 .chocolate-pannel{
     background-color: beige;
     height: 100px;
     margin-top: 20px;
-    background-image: url(chocolatetext.png);
+    background-image: url('https://photos.fife.usercontent.google.com/pw/AP1GczOyWPo3XLaajBwN_SpCPqTVv5qEHW_w16GGZM9ztTxLVjylwxEAdclo=w1270-h100-s-no-gm?authuser=3');
     background-size: cover;
     margin-bottom: 30px;
 }
@@ -214,7 +214,7 @@ a:hover{
 }
 
 .oreo{
-    background-image: url(oreo\ choco.jpg);
+    background-image: url('https://photos.fife.usercontent.google.com/pw/AP1GczPASyjCMwGFOiahYqX5x6fFf9uIzT_xv7MBkY2NHcBUunmFO9MdTRVY=w253-h254-no?authuser=3');
     background-size: cover;
     height: 400px;
     width: 400px;
@@ -224,12 +224,12 @@ a:hover{
     animation-duration: 10s;
 }
 
-.oreo:hover {
+/* .oreo:hover {
     background-image: url(rose\ choco.jpg);
     background-size: cover;
    
 }
-
+ */
 @keyframes oreo{
     from {
         transform: translateX(0);
@@ -240,7 +240,7 @@ a:hover{
 }
 
 .fruit{
-    background-image: url(fruit\ choco.jpg);
+    background-image: url('https://photos.fife.usercontent.google.com/pw/AP1GczMDXkOHd-mT8F3vdidm0KYTfaXQrzyQ11kUuRetQQOZQkx_KhW5v9em=w916-h913-s-no-gm?authuser=3');
     background-size: cover;
     height: 400px;
     width: 400px;
@@ -263,15 +263,15 @@ a:hover{
         transform: translateX(-300px) ;
     }
 }
-
+/*  
 .fruit:hover {
     background-image: url(choco-balls.jpg);
     background-size: cover;
 }
-
+  */
 
 .dark{
-    background-image: url(dark\ choco.jpg);
+    background-image: url('https://photos.fife.usercontent.google.com/pw/AP1GczMzcsuXje-Qmoom3AYCIAV1fPhZOs4Ju597aoyFeTW0jomyE_YGHcEn=w920-h913-s-no-gm?authuser=3');
     background-size: cover;
     height: 400px;
     width: 400px;
@@ -293,10 +293,10 @@ a:hover{
         transform: translateX(-300px) ;
     }
 }
-.dark:hover {
+/* .dark:hover {  
     background-image: url(choco-bar.jpg);
     background-size: cover;
-}
+} */
 /*
 .rose{
     background-image: url(rose\ choco.jpg);
@@ -328,7 +328,7 @@ a:hover{
     background-color: beige;
     height: 100px;
     margin-top: 20px;
-    background-image: url(caketext.png);
+    background-image: url('https://photos.fife.usercontent.google.com/pw/AP1GczPBWNHFlWzBAiOmKDM5nOQaTcBx8MmRVuoz1XNdOYnmK2gqGoqnvszO=w1270-h100-s-no-gm?authuser=3');
     background-size: cover;
     margin-bottom: 30px;
 }
@@ -341,7 +341,7 @@ a:hover{
 }
 
 .cake1{
-    background-image: url(cake1.jpg);
+    background-image: url('https://photos.fife.usercontent.google.com/pw/AP1GczMjlNR-Iyt_191N1F6Nd1WXeVr0DKKQXQ_XUegVAqGwKeHIn82E-i-m=w683-h913-s-no-gm?authuser=3');
     background-size: cover;
     height: 400px;
     width: 400px; 
@@ -352,14 +352,14 @@ a:hover{
 
 }
 
-.cake1:hover{
+/* .cake1:hover{ 
    background-image: url(cake4.jpg);
    background-size: cover;
     
-}
+ } */
 
 .cake2{
-    background-image: url(cake5.jpg);
+    background-image: url('https://photos.fife.usercontent.google.com/pw/AP1GczMUUXKfHiK2dHY5pab25V5mXq-774qRfsFT1fPwe0oHdJiyPSLLEQSy=w771-h815-s-no-gm?authuser=3');
     background-size: cover;
     height: 400px;
     width: 400px;
@@ -368,14 +368,13 @@ a:hover{
     transition-timing-function: ease-in;
 }
 
-
+/*  
 .cake2:hover {
     background-image: url(cake6.jpg);
     background-size: cover;
-}
-
+} */
 .cake3{
-    background-image: url(cake3.jpg);
+    background-image: url('https://photos.fife.usercontent.google.com/pw/AP1GczPM6UkfGIkAmwGnV8VJEO6E0KoobL3hOofxvuqJ8HD7nwFUv3AqiEqg=w913-h913-s-no-gm?authuser=3');
     background-size: cover;
     height: 400px;
     width: 400px;
@@ -383,11 +382,11 @@ a:hover{
     transition-duration: 0.25s;
     transition-timing-function: ease-in;
 }
-
+/*  
 .cake3:hover {
     background-image: url(cake7.jpg);
     background-size: cover;
-}
+} */
 /*
 .cake4{
     background-image: url(cake4.jpg);
@@ -397,7 +396,7 @@ a:hover{
 }    */
 
 .menu{
-    background-image: url(menu.png);
+    background-image: url('https://photos.fife.usercontent.google.com/pw/AP1GczMfoe2GsLce5AP0aCQlRlmEDDTfCNxcM1MM3lDxZysvI5HeHdk55bOH=w1280-h590-s-no-gm?authuser=3');
     background-size: cover;
     height: 600px;
     border: none;
@@ -409,14 +408,14 @@ a:hover{
     background-color: beige;
     height: 100px;
     margin-top: 20px;
-    background-image: url(ourpromise-text.png);
+    background-image: url('https://photos.fife.usercontent.google.com/pw/AP1GczNoTr77lpLibGP3B8HAwEoqhUx4yAHSyTmeLTLfdKnkiSamNehstMsV=w1280-h90-s-no-gm?authuser=3');
     background-size: cover;
    margin-top: 50px;
 }
 .our-promise{
     height: 250px;
     background-color: blue;
-    background-image: url(ourpromise.png);
+    background-image: url('https://photos.fife.usercontent.google.com/pw/AP1GczPmdLAmeEMclDEqMi-CX4wS6TlJvLSpQGH9cpyuRXeVAkwabBetFwDy=w1280-h215-s-no-gm?authuser=3');
     background-size: cover;
    margin-bottom: 50px;
 }
